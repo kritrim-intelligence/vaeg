@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Web Page Design</title>
+<title>Vaeg - The Drone</title>
 <head>
 
 <style type="text/css">
