@@ -1,9 +1,18 @@
+<!DOCTYPE html>
+<html>
+<title>Web Page Design</title>
+<head>
+
+<style type="text/css">
 .center {
   margin: auto;
   width: 50%;
   border: 3px solid green;
   padding: 10px;
 }
+</style>
+</head>
+<body>
 <div class="center">
   This is a Digital Representation of Project Report.
   Submitted by the Engineering Students of
@@ -12,3 +21,5 @@
   
   
 </div>
+</body>
+</html>
