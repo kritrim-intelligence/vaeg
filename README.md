@@ -27,7 +27,7 @@
   <a class="navbar-brand" href="#">
     <img src="![image](https://user-images.githubusercontent.com/69808325/126539102-07618342-47e6-4ec3-80f1-0a40d4e027a2.png)" width="40" height="40" alt="">
   </a>
-  <a class="navbar-brand" href="#">Vaeg</a>
+  <a class="navbar-brand" href="#"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
